@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyam98-eng23
 - 👀 I’m interested in ...front end development
-- 🌱 I’m currently learning ...React.js
+- 🌱 I’m currently learning ...Angular JS
 - 💞️ I’m looking to collaborate on ...an internship for front end development
 - 📫 How to reach me ...priyamgupta351@gmail.com
 
